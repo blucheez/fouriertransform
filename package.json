@@ -1,0 +1,22 @@
+{
+  "name": "webfinal",
+  "version": "0.0.2",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.13.3",
+    "firebase": "3.7.4",
+    "firebase-admin": "^4.1.4"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "alamsinc"
+}
